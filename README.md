@@ -48,7 +48,7 @@ This project follows all mandatory ICT requirements:
 
 ## 🤝 Group Structure & Management
 
-| Role | Name | GirHub Username | Assigned Task
+| Role | Name | GirHub Username | Assigned Task|
 | :--- | :--- |  :--- | :--- |
 | **Team Lead** | Suhaib Ahmed | | suhaibahmd2006-dev | | Home Page + Form Page Repo Setup, Deployment|
 | **Member** | Muhammad Abubakar | | Abubakar-awan786 | | Available Page Setup + Form Page |
